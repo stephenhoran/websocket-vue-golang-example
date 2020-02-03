@@ -6,7 +6,7 @@ this subject. I will add comments to the code when I have some free time.
 
 _Note: This is not idiomatic code, do not use in production..._
 
-#Go
+# Go
 ```
 go run cmd/main.go
 ```
